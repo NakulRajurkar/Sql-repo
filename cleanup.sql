@@ -1,3 +1,4 @@
+-- Round salaries to 2 decimal places to avoid floating-point precision issues.
 -- Employee records cleanup: run the three statements in this order.
 
 -- 1. Give everyone in Sales a 10% raise.
